@@ -1,5 +1,5 @@
 # tic-tac-toe
-Autonomous Tic Tac Toe.
+Autonomous Tic Tac Toe
 
 Bugs:
   - should go in corner when X goes in the middle, not working for some reason
